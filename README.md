@@ -30,12 +30,6 @@ The Car Dealership project is a simple web application that demonstrates basic C
 - **index.html:** Main HTML file that includes AngularJS and sets up the application structure.
 - **Other frontend-related files:** Stylesheets, images, or additional scripts.
 
-## Getting Started
-
-### Prerequisites
-
-- [.NET SDK](https://dotnet.microsoft.com/download) for running the backend.
-- A web browser or a simple server (e.g., [http-server](https://www.npmjs.com/package/http-server)) for the frontend.
 
 ### Running the Application
 
@@ -45,8 +39,7 @@ The Car Dealership project is a simple web application that demonstrates basic C
    - The API will be accessible at `https://localhost:5001/api/car`.
 
 2. **Frontend:**
-   - Open `index.html` in a web browser or serve it using a simple server.
-   - Access the frontend application in the browser.
+   - ng-serve
 
 ## Usage
 
@@ -55,5 +48,5 @@ The Car Dealership project is a simple web application that demonstrates basic C
 
 UI Example:
 
-![Screenshot](Screenshot 2024-03-04 172401.png)
+![Screenshot](https://github.com/nachiketpatwardhan/.NET-and-AngularJS/blob/master/Screenshot%202024-03-04%20172401.png)
 
